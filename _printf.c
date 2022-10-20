@@ -2,7 +2,7 @@
 #include <limits.h>
 #include <stdio.h>
 
-void print_buffer(char buffer[], int *buff_ind);
+void print_buffer ( char buffer[], int *buff_ind );
 
 /**
  * _printf - a function that prints formouted output to stdout
